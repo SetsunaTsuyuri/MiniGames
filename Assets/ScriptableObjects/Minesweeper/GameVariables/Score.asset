@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65233dcd6ce09044d9dadc49c538d5d8, type: 3}
+  m_Name: Score
+  m_EditorClassIdentifier: 
+  OnValueChanged: {fileID: 11400000, guid: c30303b250c653144b3bc40291555f0f, type: 2}
+  hasLowerLimit: 1
+  hasUpperLimit: 0
+  initialValue: 0
+  minValue: 0
+  maxValue: 99999999
