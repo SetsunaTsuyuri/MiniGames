@@ -140,7 +140,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4022290919132661386, guid: 767b284e3a81d244093fcb23f52ee616, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4022290919132661386, guid: 767b284e3a81d244093fcb23f52ee616, type: 3}
       propertyPath: m_AnchorMax.x
@@ -246,7 +246,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5421526507279020479, guid: bf6497daf261198439e303b1841358ee, type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 5421526507279020479, guid: bf6497daf261198439e303b1841358ee, type: 3}
       propertyPath: m_AnchorMax.x
@@ -469,7 +469,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2968110823646420581, guid: ddb94f15cd85cb946bba8b383abace93, type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2968110823646420581, guid: ddb94f15cd85cb946bba8b383abace93, type: 3}
       propertyPath: m_AnchorMax.x
@@ -567,7 +567,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7088921694406621816, guid: 8dbe3c7d6d2818a49b610166c7b677f7, type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7088921694406621816, guid: 8dbe3c7d6d2818a49b610166c7b677f7, type: 3}
       propertyPath: m_AnchorMax.x
@@ -959,7 +959,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4973584265093547080, guid: 39c92379b78625c46ad152fbff690691, type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 4973584265093547080, guid: 39c92379b78625c46ad152fbff690691, type: 3}
       propertyPath: m_AnchorMax.x
@@ -1082,18 +1082,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1599470429}
     m_Modifications:
-    - target: {fileID: 9050947993269853172, guid: 9a4b6d89d437ddd429a56bd415e26d58, type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 9050947993269853172, guid: 9a4b6d89d437ddd429a56bd415e26d58, type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 9050947993269853172, guid: 9a4b6d89d437ddd429a56bd415e26d58, type: 3}
-      propertyPath: m_Color.r
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 9050947993269853174, guid: 9a4b6d89d437ddd429a56bd415e26d58, type: 3}
       propertyPath: m_Name
       value: TextBase
@@ -1434,7 +1422,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2796746598635227317, guid: 0b962da6c2e1bff4a8badc63929092d7, type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2796746598635227317, guid: 0b962da6c2e1bff4a8badc63929092d7, type: 3}
       propertyPath: m_AnchorMax.x
