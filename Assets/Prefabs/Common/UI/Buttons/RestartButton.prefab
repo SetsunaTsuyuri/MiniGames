@@ -103,5 +103,9 @@ PrefabInstance:
       propertyPath: m_Text
       value: "\u3084\u308A\u76F4\u3059"
       objectReference: {fileID: 0}
+    - target: {fileID: 8055067424521467942, guid: 3ee9f6db41e2ebb4b9e324fe0c767991, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 32
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3ee9f6db41e2ebb4b9e324fe0c767991, type: 3}
